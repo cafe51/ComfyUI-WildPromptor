@@ -1,0 +1,15 @@
+[project]
+name = "WildPromptor"
+description = "Create dynamic prompts with wildcard list."
+version = "1.0.0"
+license = "Apache 2.0"
+dependencies = ["google-generativeai","requests"]
+
+[project.urls]
+Repository = "https://github.com/1038lab/Comfyui_WildPromptor"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "1038Lab"
+DisplayName = "ComfyUI-WildPromptor"
+Icon = ""
