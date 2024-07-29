@@ -1,6 +1,6 @@
   {
   "data_path": "data",
-  "folders": ["Subject", "Environment", "Virtual",  "Styles",  "Custom"],
+  "folders": ["Subject", "Environment", "Virtual",  "Styles",  "Collections"],
   "gemini": {
     "project_id": "your Project ID.....",
     "model_id": "gemini-1.5-flash-001",
