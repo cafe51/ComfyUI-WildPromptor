@@ -2,7 +2,7 @@
   "data_path": "data",
   "folders": ["Subject", "Environment", "Virtual",  "Styles",  "Custom"],
   "gemini": {
-    "project_id": "Generative Language Client",
+    "project_id": "your Project ID.....",
     "model_id": "gemini-1.5-flash-001",
     "api_key": "Your Gemini API key....."
   },
