@@ -1,6 +1,6 @@
 # WildPromptor
 
-WildPromptor is a custom node collection for ComfyUI, designed to enhance prompt generation and management.
+WildPromptor is a tool for efficient prompt generation and management in ComfyUI, specifically crafted to streamline the process of prompt generation and management. It empowers users to effortlessly create, organize, and customize their creative content, transforming chaotic workflows into a structured and intuitive experience.
 
 [English ](README.md) / [繁體中文 ](README.zh-tw.md) / [简体中文 ](README.zh-cn.md)
 
@@ -39,7 +39,7 @@ This structure is customizable, allowing users to add or modify folders as neede
 
 1. Place the WildPromptor folder in your ComfyUI's `custom_nodes` directory.
 2. Organize your keywords into text files within the appropriate subfolders in the `data` directory.
-3. Restart ComfyUI. The new nodes will appear under the "🧪 AILab/🧿 WildPromptor" category.
+3. Restart ComfyUI. The new nodes will appear under the "🧪AILab/🧿WildPromptor" category.
 4. Add WildPromptor nodes to your workflow.
 5. Configure node parameters:
    - Select keywords manually or use the "🎲 Random" option
@@ -62,3 +62,18 @@ This structure is customizable, allowing users to add or modify folders as neede
 - **Flexible Integration**: Seamlessly integrate with other ComfyUI nodes for diverse AI art generation workflows.
 
 WildPromptor offers a balance between controlled input and serendipitous discovery in your AI art creation process, with the added benefit of easy customization and dynamic updates.
+
+## 🌟 Core Nodes
+
+### 📋 Prompt List Nodes
+- **Folder-based Lists**: Your prompt collections, neatly organized and ready to go. Each folder becomes its own node - neat, right?
+- **All-In-One List**: Why jump between nodes when you can have all your lists in one place? It's like a Swiss Army knife for prompts!
+
+### 🔀 Prompt Tools
+- **Prompt Builder**: Like LEGO for prompts - snap together prefix, content, and suffix to build your perfect prompt.
+- **Prompt Concat**: The master mixer! Blend prompts with your choice of separator, no duplicates if you want.
+- **Keyword Picker**: Cherry-pick just the keywords you need, randomly or in order. It's like having a keyword DJ!
+
+### 🛠️ Advanced Tools
+- **Data To Prompt List**: Turn any text file into a prompt list. Forward, backward, random - you choose the flow!
+- **WildPromptor Generator**: The power duo! List + Generator = Prompt magic. Perfect for when you want full control over your creative chaos.
