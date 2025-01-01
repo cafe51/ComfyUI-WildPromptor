@@ -14,6 +14,8 @@ Customization? We’ve got you covered. Modify categories, add new ones, or slot
 
 In a nutshell, WildPromptor is your creative companion, making AI art fun, intuitive, and efficient. Say goodbye to wildcard headaches and hello to inspired prompts with WildPromptor!
 
+
+
 ## Structure and Features
 
 ### Data Organization
@@ -34,6 +36,9 @@ This structure is customizable, allowing users to add or modify folders as neede
 3. **Prompt Generation**: Combine selected keywords to create complete prompts.
 4. **Dynamic Updates**: The node interface updates interactively based on folder content changes.
 5. **Configurable Settings**: Use `config.json` to preset node parameters, display structure, server, and API data.
+
+### AI Prompt Enhancer
+The **AI Prompt Enhancer** is a powerful tool designed to enhance your prompts using advanced AI techniques. It leverages state-of-the-art models to generate improved and creative variations of your input prompts, allowing for more dynamic and engaging content creation. With features like customizable batch sizes and output options, it seamlessly integrates into your workflow, enhancing your creative process.
 
 ## How to Use
 
