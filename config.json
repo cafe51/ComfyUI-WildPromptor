@@ -1,38 +1,4 @@
-  {
+ {
   "data_path": "data",
-  "folders": ["Subject", "Environment", "Virtual",  "Styles",  "Collections"],
-  "gemini": {
-    "project_id": "your Project ID.....",
-    "model_id": "gemini-1.5-flash-001",
-    "api_key": "Your Gemini API key....."
-  },
-  "ollama": {
-    "url": "http://localhost:11434",
-    "model": "brxce/stable-diffusion-prompt-generator:latest",
-	"keep_alive_interval": 5,
-	"connection_timeout": 30
-  },
-  "vision_model": {
-    "model_name": "MiaoshouAI/Florence-2-base-PromptGen",
-    "precision": "fp16",
-    "attention": "sdpa",
-    "max_new_tokens": 1024,
-    "num_beams": 3
-  },
-  "HFGPT_repos": [
-    "Gustavosta/MagicPrompt-Stable-Diffusion",
-    "daspartho/prompt-extend",
-    "succinctly/text2image-prompt-generator",
-    "microsoft/Promptist",
-    "AUTOMATIC/promptgen-lexart",
-    "AUTOMATIC/promptgen-majinai-safe",
-    "AUTOMATIC/promptgen-majinai-unsafe",
-    "Gustavosta/MagicPrompt-Dalle",
-    "kmewhort/stable-diffusion-prompt-bolster",
-    "Ar4ikov/gpt2-650k-stable-diffusion-prompt-generator",
-    "Ar4ikov/gpt2-medium-650k-stable-diffusion-prompt-generator",
-    "crumb/bloom-560m-RLHF-SD2-prompter-aesthetic",
-    "Meli/GPT2-Prompt",
-    "DrishtiSharma/StableDiffusion-Prompt-Generator-GPT-Neo-125M"    
-  ]
-}
+  "folders": ["Subject", "Environment", "Virtual", "Styles"]
+ }
