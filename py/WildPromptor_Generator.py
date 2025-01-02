@@ -122,7 +122,7 @@ class WildPromptorGenerator:
                     prompt_parts.append(str(value))
             
             if prompt_parts:
-                all_prompts.append(",".join(prompt_parts))
+                all_prompts.append(", ".join(prompt_parts))
 
         for prompt in all_prompts:
             print(f"🔀 WildPromptor Generator output: {prompt}")

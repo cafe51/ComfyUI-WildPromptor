@@ -111,7 +111,7 @@ class PromptListNode(BaseNode):
                 if value not in ["❌disabled", "🎲Random", "🔢ordered"]:
                     prompt_parts.append(str(value))
             if prompt_parts:
-                all_prompts.append(",".join(prompt_parts))
+                all_prompts.append(", ".join(prompt_parts))
 
         return (all_prompts,) if all_prompts else ([""],)
 
@@ -246,7 +246,7 @@ class KeywordPicker:
         if not combined_keywords.strip():
             return ("",)
         
-        keyword_list = [kw.strip() for kw in combined_keywords.split(',') if kw.strip()]
+        keyword_list = [kw.strip() for kw in combined_keywords.split(', ') if kw.strip()]
 
         if not keyword_list:
             return ("",)

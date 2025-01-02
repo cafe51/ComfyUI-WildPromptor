@@ -50,7 +50,7 @@ class WildPromptorAllInOne:
 
         return inputs
 
-    def process_prompt(self, batch_size = 1, seed= 0, allow_duplicates= True, **kwargs):
+    def process_prompt(self, batch_size: int = 1, seed: int = 0, allow_duplicates: bool = True, **kwargs):
         random.seed(seed)
         all_prompts = []
 
@@ -61,19 +61,27 @@ class WildPromptorAllInOne:
                     continue
                 if value == "❌disabled":
                     continue
-                elif value == "🎲Random":
-                    folder, cleaned_name = key.split(' - ', 1)
-                    original_name = self.get_original_filename(folder, cleaned_name.split(' [')[0])
-                    file_path = os.path.join(self.data_path, folder, f"{original_name}.txt")
-                    options = self.read_file_options(file_path)
+                
+                folder, cleaned_name = key.split(' - ', 1)
+                original_name = self.get_original_filename(folder, cleaned_name.split(' [')[0])
+                file_path = os.path.join(self.data_path, folder, f"{original_name}.txt")
+                options = self.read_file_options(file_path)
+                
+                if value == "🎲Random":
                     if options:
                         if allow_duplicates:
                             prompt_parts.append(random.choice(options))
                         else:
                             prompt_parts.append(random.sample(options, 1)[0])
-        
+                elif value == "🔢ordered":
+                    if options:
+                        index = i % len(options)
+                        prompt_parts.append(options[index])
+                elif value in options:
+                    prompt_parts.append(value)
+
             if prompt_parts:
-                all_prompts.append(",".join(prompt_parts))
+                all_prompts.append(", ".join(prompt_parts))
 
         for prompt in all_prompts:
             print(f"🔀 WildPromptor All-in-One prompt: {prompt}")
