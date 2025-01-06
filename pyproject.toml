@@ -16,5 +16,4 @@ PublisherId = "AILab"
 DisplayName = "ComfyUI-WildPromptor"
 
 [project.urls]
-Homepage = "https://github.com/username/ComfyUI-RMBG"
-Repository = "https://github.com/username/ComfyUI-RMBG.git" 
+Repository = "https://github.com/1038lab/ComfyUI-WildPromptor" 
