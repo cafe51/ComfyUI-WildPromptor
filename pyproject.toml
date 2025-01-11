@@ -2,7 +2,7 @@
 name = "ComfyUI-WildPromptor"
 description = "WildPromptor simplifies prompt creation, organization, and customization in ComfyUI, turning chaotic workflows into an efficient, intuitive process."
 version = "1.0.0"
-license = "Apache 2.0"
+license = {file = "LICENSE"}
 dependencies = ["google-generativeai","requests"]
 
 [project.urls]
@@ -12,6 +12,4 @@ Repository = "https://github.com/1038lab/Comfyui_WildPromptor"
 [tool.comfy]
 PublisherId = "AILab"
 DisplayName = "ComfyUI-WildPromptor"
-
-[project.urls]
-Repository = "https://github.com/1038lab/ComfyUI-WildPromptor" 
+Icon = ""
