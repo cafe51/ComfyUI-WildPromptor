@@ -1,3 +1,4 @@
+# pyproject.toml
 [project]
 name = "ComfyUI-WildPromptor"
 description = "WildPromptor simplifies prompt creation, organization, and customization in ComfyUI, turning chaotic workflows into an efficient, intuitive process."
