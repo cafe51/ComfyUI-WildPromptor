@@ -1,0 +1,15 @@
+# pyproject.toml
+[project]
+name = "comfyu-wildpromptor".
+description = "WildPromptor simplifies prompt creation, organization, and customization in ComfyUI, turning chaotic workflows into an efficient, intuitive process."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies  = ["google-generativeai","requests"]
+
+[project.urls]
+Repository = "https://github.com/1038lab/ComfyUI-WildPromptor"
+
+[tool.comfy]
+PublisherId = "ailab"
+DisplayName = "ComfyUI-WildPromptor"
+Icon = ""
