@@ -1,6 +1,6 @@
 # pyproject.toml
 [project]
-name = "comfyu-wildpromptor".
+name = "comfyu-wildpromptor"
 description = "WildPromptor simplifies prompt creation, organization, and customization in ComfyUI, turning chaotic workflows into an efficient, intuitive process."
 version = "1.0.0"
 license = {file = "LICENSE"}
