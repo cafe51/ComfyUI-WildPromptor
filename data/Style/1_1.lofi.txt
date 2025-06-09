@@ -1,0 +1,25 @@
+early 2000s digital camera quality, low resolution, visible JPEG compression artifacts, blocky noise, slight color banding, harsh direct on-camera flash illumination
+expired 35mm film look, heavy visible film grain, strong {magenta|green|cyan} color cast throughout image, light leak effect creating {orange|red} streaks at edge
+Polaroid instant film aesthetic, soft focus, slightly desaturated muted colors, distinctive {white|cream} thick border frame, uneven chemical development marks visible
+disposable camera quality, harsh direct flash causing blown-out highlights and red-eye effect potential, grainy texture, plastic lens slight distortion at edges, {date stamp in corner|no date stamp}
+early cameraphone picture quality (mid-2000s), very low resolution, heavy pixelation visible, poor color accuracy, muddy shadow details, digital noise
+scanned old photograph look, visible dust and scratches on image surface, slightly faded colors, perhaps minor creases or fingerprints visible, soft focus due to age or scan quality
+lomography aesthetic, high color saturation, heavy vignetting (dark corners), light leaks common, slight blurriness, plastic lens quality, cross-processed color shifts ({blues turn green|yellows turn pink})
+damaged VHS tape still frame look, low resolution, horizontal tracking lines visible, color bleeding, distorted edges, soft blurry image quality, analog noise
+underexposed film photograph quality, deep muddy shadows losing detail, colors appear dark and muted, heavy grain structure emphasized by underexposure
+overexposed disposable camera photo, bright washed-out highlights losing all detail, colors appear pale and faded, harsh direct flash used in daylight creating flat look
+low light digital photo from 2000s camera, extremely high ISO noise (color speckles, graininess), poor shadow detail, motion blur from slow shutter speed, dim ambient artificial lighting
+instant film (like Instax) aesthetic, slightly soft focus, high contrast often, colors lean towards {cool|warm} tones depending on film type, rectangular frame
+cross-processed slide film look, highly saturated unnatural colors, extreme contrast between highlights and shadows, visible grain, distinctive {blue|green|yellow} color cast
+cheap plastic toy camera look, heavy vignetting, light leaks almost certain, focus is {soft|randomly sharp in center}, slight lens distortion (barrel or pincushion)
+out of focus amateur snapshot, main subject area blurry, background indistinct, accidental motion blur streaks, poor lighting conditions contributing to blur
+incorrect white balance digital photo, strong overall color cast ({tungsten orange|fluorescent green|daylight blue}) due to wrong setting, unnatural skin tones suggested
+double exposure film effect, two images overlaid unintentionally or artistically, creating ghosting and blended shapes, grainy texture
+scan of photo print with texture, visibility of the paper texture (matte or glossy) from the scan, slightly lower contrast than negative scan
+pinhole camera aesthetic, extremely soft focus bordering on blurry, heavy vignetting creating circular frame effect, infinite depth of field but low detail, long exposure motion blur possible
+solarized photograph effect (Sabattier effect), reversal of tones in highlights or midtones creating surreal look, {black and white|color} variations
+low quality webcam capture (early 2000s style), very low resolution, pixelated, poor color depth, laggy motion blur effect, harsh lighting from monitor screen
+infrared film look, {black and white with glowing whites|false color with red/pink foliage}, high contrast, grainy ethereal quality
+water damaged photo look, running colors, warped paper texture suggested, stains and discoloration patches across image
+photocopy art aesthetic, high contrast black and white, loss of detail, visible toner texture or streaking, flattened perspective
+thermal imaging camera effect, depicting heat signatures in false colors like {red/yellow for hot, blue/purple for cold}, low resolution thermal sensor look

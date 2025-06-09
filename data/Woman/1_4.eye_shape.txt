@@ -1,0 +1,11 @@
+almond eye shape
+round eye shape
+monolid eye shape
+hooded eye shape
+downturned eye shape
+upturned eye shape
+deep-set eye shape
+close-set eye shape
+wide-set eye shape
+large round eye shape
+narrow almond eye shape

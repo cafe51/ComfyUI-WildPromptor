@@ -1,0 +1,12 @@
+Predawn
+Dawn
+Sunrise
+Morning
+Noon
+Afternoon
+Sunset
+Dusk
+Twilight
+Evening
+Night
+Midnight

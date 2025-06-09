@@ -1,0 +1,6 @@
+white woman, {pale|tanned|olive} skin
+asian woman, {japanese|chinese|korean|taiwanese|vietnamese|thai|filipina} woman
+black woman, {light|medium|dark} black skin
+mediterranean woman, {pale|tanned|olive} skin, {spanish|italian|slovenian|croation|bosnian|greek|albanian} woman
+middle eastern woman, {pale|tanned|olive} skin, {egyptian|iranian|turkish|iraqi|saudi|israeli|kuwaiti|lebanese} woman
+latin american woman, {pale|tanned|olive} skin, {mexican|argentinian|bolivian|brazilian|costa rican|chilean|cuban|dominican|guatemalan|peruvian|columbian} woman
