@@ -1,4 +1,14 @@
  {
   "data_path": "data",
-  "folders": ["Subject", "Environment", "Virtual", "Styles", "Illustrious"]
+  "folders": [
+    "Subject",
+    "Environment",
+    "Virtual",
+    "Styles",
+    "Illustrious",
+    "Style",
+    "Clothing",
+    "Location",
+    "Woman"
+  ]
  }
